@@ -1,0 +1,20 @@
+E:\Pilotedev\Formation\Bonjour\Bonjour\bin\Bonjour.dll
+E:\Pilotedev\Formation\Bonjour\Bonjour\bin\Bonjour.pdb
+E:\Pilotedev\Formation\Bonjour\Bonjour\obj\Debug\ResolveAssemblyReference.cache
+E:\Pilotedev\Formation\Bonjour\Bonjour\obj\Debug\Bonjour.dll
+E:\Pilotedev\Formation\Bonjour\Bonjour\obj\Debug\Bonjour.pdb
+E:\Pilotedev\Formation\Développement Informatique\ASP.net\Exemples\PageBonjour\Bonjour\Bonjour\bin\Bonjour.dll
+E:\Pilotedev\Formation\Développement Informatique\ASP.net\Exemples\PageBonjour\Bonjour\Bonjour\bin\Bonjour.pdb
+E:\Pilotedev\Formation\Développement Informatique\ASP.net\Exemples\PageBonjour\Bonjour\Bonjour\obj\Debug\ResolveAssemblyReference.cache
+E:\Pilotedev\Formation\Développement Informatique\ASP.net\Exemples\PageBonjour\Bonjour\Bonjour\obj\Debug\Bonjour.dll
+E:\Pilotedev\Formation\Développement Informatique\ASP.net\Exemples\PageBonjour\Bonjour\Bonjour\obj\Debug\Bonjour.pdb
+E:\Pilotedev\Formation\Développement Informatique\ASP.net\TPs\TD1\PageBonjour\Bonjour\Bonjour\bin\Bonjour.dll
+E:\Pilotedev\Formation\Développement Informatique\ASP.net\TPs\TD1\PageBonjour\Bonjour\Bonjour\bin\Bonjour.pdb
+E:\Pilotedev\Formation\Développement Informatique\ASP.net\TPs\TD1\PageBonjour\Bonjour\Bonjour\obj\Debug\ResolveAssemblyReference.cache
+E:\Pilotedev\Formation\Développement Informatique\ASP.net\TPs\TD1\PageBonjour\Bonjour\Bonjour\obj\Debug\Bonjour.dll
+E:\Pilotedev\Formation\Développement Informatique\ASP.net\TPs\TD1\PageBonjour\Bonjour\Bonjour\obj\Debug\Bonjour.pdb
+C:\Users\Essarraj\Dropbox\Modules\ASP.net\TPs\TP1\PageBonjour\Bonjour\Bonjour\bin\Bonjour.dll
+C:\Users\Essarraj\Dropbox\Modules\ASP.net\TPs\TP1\PageBonjour\Bonjour\Bonjour\bin\Bonjour.pdb
+C:\Users\Essarraj\Dropbox\Modules\ASP.net\TPs\TP1\PageBonjour\Bonjour\Bonjour\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Essarraj\Dropbox\Modules\ASP.net\TPs\TP1\PageBonjour\Bonjour\Bonjour\obj\Debug\Bonjour.dll
+C:\Users\Essarraj\Dropbox\Modules\ASP.net\TPs\TP1\PageBonjour\Bonjour\Bonjour\obj\Debug\Bonjour.pdb
